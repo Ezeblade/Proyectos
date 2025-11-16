@@ -1,0 +1,10 @@
+
+#titulo{color: aquamarine; font-size: 100px;}
+#titulo {background-color: rgb(128, 128, 128);}
+h2 {color: pink;}
+.azul {color: blue;}
+.rojo {color: red;}
+.margenes {margin-left: 100px;
+            margin-bottom: 20px;  
+            padding: 10px;          
+}
